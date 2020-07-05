@@ -46,7 +46,6 @@ class App extends React.Component {
 
     render() {
         const { currentUser } = this.props;
-        console.log(currentUser);
 
         return (
             <div className="">
